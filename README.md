@@ -64,6 +64,7 @@ emperador-stock-analysis/
 │   └── CS176-Bollinger_Bands-Garcia.xlsx
 │
 └── README.md
+```
 
 ## Limitations
 
