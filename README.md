@@ -64,3 +64,17 @@ emperador-stock-analysis/
 │   └── CS176-Bollinger_Bands-Garcia.xlsx
 │
 └── README.md
+
+## Limitations
+
+- **Historical Bias:** The model relies on historical price movements and volatility trends, which may not fully predict future market shifts or sudden market anomalies.
+- **Exogenous Factors:** Macroeconomic factors, industry regulations, corporate earnings reports, and broader market sentiment for Emperador Inc. are not explicitly integrated into the quantitative technical rules.
+- **Execution Assumptions:** Trade simulations assume frictionless execution without incorporating brokerage commissions, slippage, bid-ask spreads, liquidity constraints, or capital gains taxes.
+
+## Author
+
+**Jerick L. Garcia**  
+Bachelor of Science in Mathematics  
+University of the Philippines Diliman  
+
+*Predictive Analytics for Investments*
