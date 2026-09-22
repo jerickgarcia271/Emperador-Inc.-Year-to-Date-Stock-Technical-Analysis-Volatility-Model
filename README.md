@@ -4,7 +4,7 @@ Predictive Analytics for Investments | Course Requirement
 
 ## Overview
 
-This project provides a quantitative technical analysis and volatility model for **Emperador Inc. (EMP.MN)** using Microsoft Excel. By evaluating historical daily price movements, return distributions, volatility metrics, and technical indicators (such as Moving Averages and Bollinger Bands), the model simulates dynamic portfolio performance, models projected cash flows, and measures compounding returns over time.
+This project provides a quantitative technical analysis and volatility model for **Emperador Inc. (PSE: EMI)** using Microsoft Excel. By evaluating historical daily price movements, return distributions, volatility metrics, and technical indicators (such as Moving Averages and Bollinger Bands), the model simulates dynamic portfolio performance, models projected cash flows, and measures compounding returns over time.
 
 Developed as a course requirement for *Predictive Analytics for Investments*, the model bridges core financial theory with hands-on quantitative modeling to evaluate portfolio risk, equity growth, and potential returns under stochastic market conditions.
 
